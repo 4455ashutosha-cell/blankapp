@@ -1,0 +1,27 @@
+crispky-portfolio/
+├── src/
+│   ├── app/
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   └── globals.css
+│   ├── components/
+│   │   ├── ui/
+│   │   │   ├── GlassCard.tsx
+│   │   │   ├── GradientText.tsx
+│   │   │   ├── GlowButton.tsx
+│   │   │   └── AuroraBackground.tsx
+│   │   ├── sections/
+│   │   │   ├── Navbar.tsx
+│   │   │   ├── Hero.tsx
+│   │   │   ├── Skills.tsx
+│   │   │   ├── Projects.tsx
+│   │   │   └── Contact.tsx
+│   │   └── CustomCursor.tsx
+│   └── types/
+│       └── index.ts
+├── public/
+│   ├── robots.txt
+│   └── sitemap.xml
+├── tailwind.config.ts
+├── tsconfig.json
+└── package.json
